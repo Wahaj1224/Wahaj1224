@@ -1,6 +1,64 @@
-<div align="center">
+<div style="display:flex;align-items:center;justify-content:space-between;
+padding:20px 30px;border-radius:18px;
+background:linear-gradient(135deg,#050814,#0a1025,#070b18);
+border:1px solid rgba(0,229,255,0.2);
+box-shadow:0 0 25px rgba(0,229,255,0.08);">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05060a,15:0a0f1f,35:0b1b3a,60:0a2a5a,85:00e5ff,100:00aaff&height=320&section=header&text=Wahaj%20Yasin&fontSize=78&fontColor=00e5ff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descSize=22&descAlign=50&animation=fadeIn&stroke=00e5ff&strokeWidth=3"/>
+  <!-- LEFT SIDE -->
+  <div style="display:flex;align-items:center;gap:15px;">
+
+    <!-- Avatar -->
+    <div style="width:60px;height:60px;border-radius:50%;
+    background:linear-gradient(135deg,#00e5ff,#7c3aed);
+    display:flex;align-items:center;justify-content:center;
+    font-weight:bold;color:#000;font-size:20px;
+    box-shadow:0 0 20px rgba(0,229,255,0.4);">
+      WY
+    </div>
+
+    <!-- Name -->
+    <div>
+      <div style="font-size:20px;font-weight:700;
+      color:#00e5ff;letter-spacing:2px;">
+        WAHAJ YASIN
+      </div>
+      <div style="font-size:12px;color:#9ca3af;
+      letter-spacing:1px;margin-top:3px;">
+        SOFTWARE ENGINEER & AI EXPLORER
+      </div>
+    </div>
+
+  </div>
+
+  <!-- RIGHT SIDE BUTTONS -->
+  <div style="display:flex;gap:12px;align-items:center;">
+
+    <a href="https://your-portfolio.com" 
+    style="padding:8px 14px;border-radius:10px;
+    border:1px solid rgba(0,229,255,0.3);
+    color:#00e5ff;text-decoration:none;
+    font-size:12px;letter-spacing:1px;">
+      PORTFOLIO ↗
+    </a>
+
+    <a href="https://linkedin.com" 
+    style="padding:8px 14px;border-radius:10px;
+    border:1px solid rgba(124,58,237,0.3);
+    color:#a855f7;text-decoration:none;
+    font-size:12px;letter-spacing:1px;">
+      LINKEDIN ↗
+    </a>
+
+    <a href="mailto:your@email.com"
+    style="padding:10px 18px;border-radius:10px;
+    background:linear-gradient(135deg,#a855f7,#ec4899);
+    color:white;text-decoration:none;
+    font-weight:600;font-size:12px;
+    box-shadow:0 0 15px rgba(168,85,247,0.4);">
+      HIRE ME
+    </a>
+
+  </div>
 
 </div>
 
