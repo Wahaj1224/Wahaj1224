@@ -1,45 +1,61 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a001f,45:12005e,70:0d3b8e,100:0077cc&height=300&section=header&text=Wahaj%20Yasin&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descSize=22&descAlign=50&animation=fadeIn&stroke=00cfff&strokeWidth=3"/>
+
 </div>
-<br/>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=1000&color=00CFFF&background=00000000&center=true&vCenter=true&width=750&height=55&lines=🚀+Full-Stack+Developer+%7C+3%2B+Years;🤖+AI+%26+Computer+Vision+Engineer;📱+Flutter+%26+Mobile+App+Developer;🧠+Scalable+Systems+%26+Clean+Code;⚡+Code+•+Learn+•+Build+•+Repeat" alt="Typing SVG" />
-</div>
+
 <br/>
 
 <div align="center">
-🌐 Connect With Me
-Show ImageShow ImageShow ImageShow Image
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=1000&color=00CFFF&background=00000000&center=true&vCenter=true&width=750&height=55&lines=🚀+Full-Stack+Developer+%7C+3%2B+Years;🤖+AI+%26+Computer+Vision+Engineer;📱+Flutter+%26+Mobile+App+Developer;🧠+Scalable+Systems+%26+Clean+Code;⚡+Code+•+Learn+•+Build+•+Repeat" alt="Typing SVG" />
 </div>
+
 <br/>
+
 <div align="center">
-Show Image
-  
-Show Image
-  
-Show Image
-  
-Show Image
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00cfff?style=for-the-badge&labelColor=000814)](https://wahajportfolio.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000814)](https://www.linkedin.com/in/m-wahaj-yasin/)
+[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000814)](mailto:wahajrajpoot987654@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000814)](https://github.com/Wahaj1224)
+[![Profile Views](https://komarev.com/ghpvc/?username=Wahaj1224&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=000814)](https://github.com/Wahaj1224)
+
 </div>
+
 <br/>
+
 <div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+
+[![Status](https://img.shields.io/badge/●%20STATUS-AVAILABLE%20FOR%20WORK-00ff88?style=for-the-badge&labelColor=0a1628)](https://wahajportfolio.pages.dev/)
+[![Location](https://img.shields.io/badge/📍%20LOCATION-PAKISTAN-ffffff?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
+[![Experience](https://img.shields.io/badge/⏱%20EXPERIENCE-3%2B%20YEARS-a855f7?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
+[![Focus](https://img.shields.io/badge/🎯%20FOCUS-FULLSTACK%20%26%20AI-00cfff?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
+
 </div>
+
+<br/>
+
+<div align="center">
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)](https://laravel.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000000)](https://python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://typescriptlang.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://mongodb.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://mysql.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)](https://firebase.google.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://tensorflow.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://docker.com/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)](https://opencv.org/)
+
+</div>
+
 <br/>
 ---
 
