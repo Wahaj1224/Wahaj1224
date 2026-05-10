@@ -1,39 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:0a001f,45:12005e,70:0d3b8e,100:0077cc&height=300&section=header&text=Wahaj%20Yasin&fontSize=80&fontColor=ffffff&fontAlignY=40&fontAlign=50&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Dev%20%E2%80%A2%20AI%20Explorer&descAlignY=60&descSize=22&descAlign=50&animation=fadeIn&stroke=00cfff&strokeWidth=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:00cfff,100:7c3aed&height=280&section=header&text=WAHAJ%20YASIN&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%26%20AI%20EXPLORER&descAlignY=55&descSize=20&animation=fadeIn&stroke=000000&strokeWidth=1"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=1000&color=00CFFF&background=00000000&center=true&vCenter=true&width=750&height=55&lines=🚀+Full-Stack+Developer+%7C+3%2B+Years;🤖+AI+%26+Computer+Vision+Engineer;📱+Flutter+%26+Mobile+App+Developer;🧠+Scalable+Systems+%26+Clean+Code;⚡+Code+•+Learn+•+Build+•+Repeat" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00CFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Computer+Vision;📱+Mobile+App+Architect;⚡+Scalable+Solutions" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+<a href="https://wahajportfolio.pages.dev/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%97-0d1117?style=for-the-badge&logo=react&logoColor=00cfff&labelColor=161b22&borderColor=00cfff" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/m-wahaj-yasin/">
+  <img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=161b22&borderColor=00cfff" alt="LinkedIn" />
+</a>
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/HIRE%20ME-ff2e63?style=for-the-badge&logo=googlemail&logoColor=white&labelColor=ff2e63" alt="Hire Me" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00cfff?style=for-the-badge&labelColor=000814)](https://wahajportfolio.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000814)](https://www.linkedin.com/in/m-wahaj-yasin/)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000814)](mailto:wahajrajpoot987654@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=000814)](https://github.com/Wahaj1224)
-[![Profile Views](https://komarev.com/ghpvc/?username=Wahaj1224&style=for-the-badge&color=7c3aed&label=VISITORS&labelColor=000814)](https://github.com/Wahaj1224)
+<br/>
+<br/>
+
+[![Experience](https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-00cfff?style=flat-square&logo=clock&logoColor=white)](https://github.com/Wahaj1224)
+[![Location](https://img.shields.io/badge/LOCATION-PAKISTAN-7c3aed?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Wahaj1224)
+[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/Wahaj1224)
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![Status](https://img.shields.io/badge/●%20STATUS-AVAILABLE%20FOR%20WORK-00ff88?style=for-the-badge&labelColor=0a1628)](https://wahajportfolio.pages.dev/)
-[![Location](https://img.shields.io/badge/📍%20LOCATION-PAKISTAN-ffffff?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
-[![Experience](https://img.shields.io/badge/⏱%20EXPERIENCE-3%2B%20YEARS-a855f7?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
-[![Focus](https://img.shields.io/badge/🎯%20FOCUS-FULLSTACK%20%26%20AI-00cfff?style=for-the-badge&labelColor=0a1628)](https://github.com/Wahaj1224)
-
-</div>
-
-<br/>
+---
 
 <div align="center">
 
