@@ -1,54 +1,53 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:00cfff,100:7c3aed&height=280&section=header&text=WAHAJ%20YASIN&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%26%20AI%20EXPLORER&descAlignY=55&descSize=20&animation=fadeIn&stroke=000000&strokeWidth=1"/>
+<!-- ══════════════════════════════════════════════ -->
+<!--                ANIMATED HEADER                -->
+<!-- ══════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00CFFF&background=00000000&center=true&vCenter=true&width=700&height=50&lines=🚀+Full-Stack+Developer;🤖+AI+%26+Computer+Vision;📱+Mobile+App+Architect;⚡+Scalable+Solutions" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://wahajportfolio.pages.dev/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-%E2%86%97-0d1117?style=for-the-badge&logo=react&logoColor=00cfff&labelColor=161b22&borderColor=00cfff" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/m-wahaj-yasin/">
-  <img src="https://img.shields.io/badge/LINKEDIN-%E2%86%97-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=161b22&borderColor=00cfff" alt="LinkedIn" />
-</a>
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/HIRE%20ME-ff2e63?style=for-the-badge&logo=googlemail&logoColor=white&labelColor=ff2e63" alt="Hire Me" />
-</a>
-
-<br/>
-<br/>
-
-[![Experience](https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-00cfff?style=flat-square&logo=clock&logoColor=white)](https://github.com/Wahaj1224)
-[![Location](https://img.shields.io/badge/LOCATION-PAKISTAN-7c3aed?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/Wahaj1224)
-[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff88?style=flat-square&logo=statuspage&logoColor=white)](https://github.com/Wahaj1224)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:0d0628,50:1a0a4a,75:0a2a6e,100:003d8f&height=280&section=header&text=Wahaj%20Yasin&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Explorer%20⚡&descAlignY=62&descSize=20&descAlign=50&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
 
 </div>
-
----
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)](https://laravel.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-54C5F8?style=for-the-badge&logo=flutter&logoColor=ffffff)](https://flutter.dev/)
-[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=000000)](https://python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://typescriptlang.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://mongodb.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://mysql.com/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=ffffff)](https://aws.amazon.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)](https://firebase.google.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffffff)](https://tensorflow.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)](https://docker.com/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://git-scm.com/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=ffffff)](https://opencv.org/)
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=680&height=50&lines=🚀+Full-Stack+Developer+%7C+3%2B+Years+Experience;🤖+AI+%26+Computer+Vision+Engineer;📱+Flutter+%26+Mobile+App+Developer;🧠+Building+Scalable+%26+Intelligent+Systems;⚡+Code+•+Learn+•+Build+•+Repeat" alt="Typing SVG" />
 
 </div>
 
 <br/>
+
+<!-- Social badges row -->
+<div align="center">
+
+<a href="https://wahajportfolio.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/m-wahaj-yasin/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="mailto:wahajrajpoot987654@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Wahaj1224&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- Status badges -->
+<div align="center">
+
+![Available](https://img.shields.io/badge/Status-Available%20for%20Work-00ff88?style=flat-square&logo=checkmarx&logoColor=white)
+![Location](https://img.shields.io/badge/📍_Location-Pakistan-white?style=flat-square&labelColor=1a1a2e)
+![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-6e40c9?style=flat-square&logo=clockify&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-00d4ff?style=flat-square&logo=target&logoColor=white)
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
