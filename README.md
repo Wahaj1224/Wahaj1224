@@ -1,25 +1,16 @@
 <div align="center">
-
 <!-- ══════════════════════════════════════════════ -->
 <!--                ANIMATED HEADER                -->
 <!-- ══════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:0d0628,50:1a0a4a,75:0a2a6e,100:003d8f&height=280&section=header&text=Wahaj%20Yasin&fontSize=72&fontColor=ffffff&fontAlignY=42&fontAlign=50&desc=⚡%20Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Explorer%20⚡&descAlignY=62&descSize=20&descAlign=50&animation=fadeIn&stroke=00d4ff&strokeWidth=2"/>
-
 </div>
-
 <div align="center">
-
 <!-- Typing animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1200&color=00D4FF&center=true&vCenter=true&multiline=false&width=680&height=50&lines=🚀+Full-Stack+Developer+%7C+3%2B+Years+Experience;🤖+AI+%26+Computer+Vision+Engineer;📱+Flutter+%26+Mobile+App+Developer;🧠+Building+Scalable+%26+Intelligent+Systems;⚡+Code+•+Learn+•+Build+•+Repeat" alt="Typing SVG" />
-
 </div>
-
 <br/>
-
 <!-- Social badges row -->
 <div align="center">
-
 <a href="https://wahajportfolio.pages.dev/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
@@ -33,19 +24,14 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Wahaj1224&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS&labelColor=0d1117"/>
-
 </div>
-
 <br/>
-
 <!-- Status badges -->
 <div align="center">
-
-![Available](https://img.shields.io/badge/Status-Available%20for%20Work-00ff88?style=flat-square&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/📍_Location-Pakistan-white?style=flat-square&labelColor=1a1a2e)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-6e40c9?style=flat-square&logo=clockify&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-00d4ff?style=flat-square&logo=target&logoColor=white)
-
+Show Image
+Show Image
+Show Image
+Show Image
 </div>
 
 ---
